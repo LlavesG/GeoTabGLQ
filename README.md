@@ -4,7 +4,7 @@ Este proyecto es una aplicación de consola .NET que se conecta a la API de GeoT
 
 ## Requisitos
 
-- .NET SDK 6.0 o superior
+- .NET SDK 8.0
 - Credenciales de la API de GeoTab
 - Archivo de configuración `appsettings.json`
 
